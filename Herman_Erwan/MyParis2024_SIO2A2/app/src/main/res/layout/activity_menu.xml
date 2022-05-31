@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Menu">
+
+    <Button
+        android:id="@+id/idMonProfil"
+        android:layout_width="414dp"
+        android:layout_height="86dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="23dp"
+        android:text="Mon Profil"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/idDeconnexion"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/idMesEvenements" />
+
+    <Button
+        android:id="@+id/idMesEvenements"
+        android:layout_width="414dp"
+        android:layout_height="86dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginBottom="8dp"
+        android:text="Mes Prochains Evènements"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/idMonProfil"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/idLesEvnements" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="411dp"
+        android:layout_height="161dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/log"
+        tools:layout_editor_absoluteY="-2dp" />
+
+    <Button
+        android:id="@+id/idLesEvnements"
+        android:layout_width="414dp"
+        android:layout_height="86dp"
+        android:layout_marginTop="69dp"
+        android:layout_marginBottom="18dp"
+        android:text="Les évènements de Paris 2024"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/idMesEvenements"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4" />
+
+    <ImageButton
+        android:id="@+id/idDeconnexion"
+        android:layout_width="163dp"
+        android:layout_height="135dp"
+        android:layout_marginStart="136dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="112dp"
+        android:layout_marginBottom="32dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/idMonProfil"
+        app:srcCompat="@drawable/deconnexion" />
+</androidx.constraintlayout.widget.ConstraintLayout>

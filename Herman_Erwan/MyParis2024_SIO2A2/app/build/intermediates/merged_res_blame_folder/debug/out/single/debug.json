@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deconnexion.jpg.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\drawable\\deconnexion.jpg"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mes_evenements.xml.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\layout\\activity_mes_evenements.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mon_profil.xml.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\layout\\activity_mon_profil.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paris.jpeg.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\drawable\\paris.jpeg"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_log.png.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\drawable\\log.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_les_evenements.xml.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\layout\\activity_les_evenements.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\xampp\\htdocs\\Promotion_241\\Projets\\Herman_Erwan\\MyParis2024_SIO2A2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

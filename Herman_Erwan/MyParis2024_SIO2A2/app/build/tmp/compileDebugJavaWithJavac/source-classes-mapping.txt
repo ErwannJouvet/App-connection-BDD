@@ -1,0 +1,27 @@
+com/example/myparis2024_sio2a/BuildConfig.java
+ com.example.myparis2024_sio2a.BuildConfig
+com/example/myparis2024_sio2a/Evenement.java
+ com.example.myparis2024_sio2a.Evenement
+com/example/myparis2024_sio2a/User.java
+ com.example.myparis2024_sio2a.User
+com/example/myparis2024_sio2a/MesEvenements.java
+ com.example.myparis2024_sio2a.MesEvenements
+ com.example.myparis2024_sio2a.MesEvenements$1
+ com.example.myparis2024_sio2a.MesEvenements$1$1
+ com.example.myparis2024_sio2a.MesEventsBDD
+com/example/myparis2024_sio2a/MonProfil.java
+ com.example.myparis2024_sio2a.MonProfil
+com/example/myparis2024_sio2a/Inscription.java
+ com.example.myparis2024_sio2a.Inscription
+com/example/myparis2024_sio2a/LesEvenements.java
+ com.example.myparis2024_sio2a.EventsBDD
+ com.example.myparis2024_sio2a.LesEvenements
+ com.example.myparis2024_sio2a.LesEvenements$1
+ com.example.myparis2024_sio2a.LesEvenements$1$1
+com/example/myparis2024_sio2a/MainActivity.java
+ com.example.myparis2024_sio2a.Connexion
+ com.example.myparis2024_sio2a.MainActivity
+ com.example.myparis2024_sio2a.MainActivity$1
+ com.example.myparis2024_sio2a.MainActivity$1$1
+com/example/myparis2024_sio2a/Menu.java
+ com.example.myparis2024_sio2a.Menu
